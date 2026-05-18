@@ -1,0 +1,37 @@
+{
+  "name": "@hailbytes/asm-scope-parser",
+  "version": "0.0.1",
+  "private": true,
+  "description": "Parses and normalizes attack surface scope definitions: IP ranges, CIDR, domains, wildcards, and exclusions. Framework-agnostic, zero-dependency.",
+  "type": "module",
+  "license": "MIT",
+  "author": "HailBytes, LLC",
+  "keywords": [
+    "attack-surface-management",
+    "asm",
+    "cidr",
+    "ip-parsing",
+    "domain-parsing",
+    "scope",
+    "pentest",
+    "bug-bounty",
+    "security-tools",
+    "hailbytes"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/HailBytes/asm-scope-parser.git"
+  },
+  "bugs": {
+    "url": "https://github.com/HailBytes/asm-scope-parser/issues"
+  },
+  "homepage": "https://hailbytes.com",
+  "scripts": {
+    "build": "tsc",
+    "lint": "echo 'No linter configured yet'",
+    "test": "echo 'No tests yet' && exit 0"
+  },
+  "devDependencies": {
+    "typescript": "^5.4.0"
+  }
+}
