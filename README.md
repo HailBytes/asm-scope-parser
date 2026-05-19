@@ -3,6 +3,7 @@
 > Parses and normalizes attack surface scope definitions: IP ranges, CIDR, domains, wildcards, and exclusions. Framework-agnostic, zero-dependency.
 
 [![npm version](https://img.shields.io/npm/v/%40hailbytes%2Fasm-scope-parser.svg)](https://www.npmjs.com/package/%40hailbytes%2Fasm-scope-parser)
+[![npm downloads](https://img.shields.io/npm/dw/%40hailbytes%2Fasm-scope-parser.svg)](https://www.npmjs.com/package/@hailbytes/asm-scope-parser)
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 [![Bundle Size](https://img.shields.io/bundlephobia/minzip/%40hailbytes%2Fasm-scope-parser)](https://bundlephobia.com/package/@hailbytes/asm-scope-parser)
 
