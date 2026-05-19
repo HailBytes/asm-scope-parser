@@ -2,19 +2,20 @@
 
 > Parses and normalizes attack surface scope definitions: IP ranges, CIDR, domains, wildcards, and exclusions.
 
-![Status: Incubation — not yet published to npm](https://img.shields.io/badge/Status-Incubation%20%E2%80%94%20not%20yet%20published%20to%20npm-yellow)
+[![npm version](https://img.shields.io/npm/v/%40hailbytes%2Fasm-scope-parser.svg)](https://www.npmjs.com/package/%40hailbytes%2Fasm-scope-parser)
+[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 
-## Planned npm Package
+## Install
 
-```
+```bash
 npm install @hailbytes/asm-scope-parser
 ```
 
-## Planned Audience
+## Who Is This For
 
 Pentesters, bug bounty hunters, and ASM platform engineers who need a reliable, framework-agnostic way to parse and validate scope definitions.
 
-## Planned API Sketch
+## API
 
 ```ts
 import { parseScope } from '@hailbytes/asm-scope-parser';
