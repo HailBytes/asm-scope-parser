@@ -1,6 +1,6 @@
 {
   "name": "@hailbytes/asm-scope-parser",
-  "version": "0.0.1",
+  "version": "1.0.1",
   "description": "Parses and normalizes attack surface scope definitions: IP ranges, CIDR, domains, wildcards, and exclusions. Framework-agnostic, zero-dependency.",
   "type": "module",
   "license": "MIT",
