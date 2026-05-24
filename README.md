@@ -1,4 +1,6 @@
 # @hailbytes/asm-scope-parser
+![npm](https://img.shields.io/npm/dt/@hailbytes/asm-scope-parser)
+
 
 > Parses and normalizes attack surface scope definitions: IP ranges, CIDR, domains, wildcards, and exclusions. Framework-agnostic, zero-dependency.
 
