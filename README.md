@@ -8,6 +8,7 @@
 [![npm downloads](https://img.shields.io/npm/dw/%40hailbytes%2Fasm-scope-parser.svg)](https://www.npmjs.com/package/@hailbytes/asm-scope-parser)
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 [![Bundle Size](https://img.shields.io/bundlephobia/minzip/%40hailbytes%2Fasm-scope-parser)](https://bundlephobia.com/package/@hailbytes/asm-scope-parser)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-davidhailbytes-blue?logo=linkedin&style=flat)](https://www.linkedin.com/in/davidhailbytes/)
 
 ---
 
